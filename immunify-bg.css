@@ -93,13 +93,13 @@ Usage: codyhouse.co/license
   background: linear-gradient(160deg, #364f9a 66%, #31bbc5 100%);
 
 }
-@media (min-width: 80rem) {
-  .bg-gradient-immunify {
-    height: 100vh;
-    background: #322274;
-    background: linear-gradient(170deg, #322274 0%, #31bbc5 100%);
-  }
+
+.bg-gradient-immunify {
+  height: 100vh;
+  background: #322274;
+  background: linear-gradient(170deg, #322274 0%, #31bbc5 100%);
 }
+
 .bg-gradient-immunify .atmospheric-globe {
   height: 80vw;
   width: 80vw;
